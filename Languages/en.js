@@ -24,7 +24,7 @@ module.exports = {
                 }
             },
             second: {
-                title: 'Award',
+                title: 'AwardBot',
                 items: {
                     partners: 'Partners',
                     team: 'Team'
